@@ -21,7 +21,6 @@ The ultimate goal is to assist **farmers and agricultural experts** in early dis
 - Includes multiple plant species with both **healthy** and **diseased** samples.  
 - Images were resized, normalized, and augmented to improve model generalization.  
 
-*(If public, add dataset link here — e.g., Kaggle / PlantVillage Dataset)*
 
 ---
 
